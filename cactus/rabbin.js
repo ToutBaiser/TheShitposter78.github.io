@@ -4,9 +4,13 @@ function full(){
 }
 function cactus(){
     var audio = new Audio('out.mp3');
+    var audio2 = new Audio('cat.mp3');
     audio.loop=true
     if (audio.paused){
         audio.play()
+    }
+    if (audio2.paused){
+        audio2.play()
     }
     window.open('http://theshitposter78.github.io/cactus/', '_blank');
     window.open('http://theshitposter78.github.io/cactus/', '_blank');
