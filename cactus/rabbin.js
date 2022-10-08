@@ -25,8 +25,7 @@ function cactus(){
     for(let i=0; i <= 30; i++= {
     window.open('http://theshitposter78.github.io/cactus/', '_blank');
     }
-    cactus()
-}
+
 
 cactus()
 full()
